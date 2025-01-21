@@ -9,8 +9,7 @@
     
     let xScale = $derived(d3.scaleLinear().domain([0, 100]).range([-width, width]));
     let yScale = $derived(d3.scaleLinear().domain([0, 100]).range([height/2, -height/2]));
-    console.log(title, ":\nxScale =",xScale(85));
-    $effect(()=>console.log(title, ":\nxScale =", xScale(85),"changed"));
+
     // set the color scale
     let color = null;
     if(theme == 'dark')
@@ -30,7 +29,7 @@
         .pie()
         .sort(null) // Do not sort group by size
         .value((d) => d[1]);
-    let data_ready = pie(Object.entries(data));
+    let data_ready = $derived(pie(Object.entries(data)));
 
     // The arc generator
     let arc = $derived(d3
@@ -38,19 +37,22 @@
         .innerRadius(radius * 0.5) // This is the size of the donut hole
         .outerRadius(radius * 0.8));
 
-    console.log(title, "Arc:", data_ready);
+    let hoverArc = $derived(d3
+        .arc()
+        .innerRadius(radius * 0.55) // This is the size of the donut hole
+        .outerRadius(radius * 0.85));
 
-    $effect(()=>{
-        console.log(title, "Arc Changed:", data_ready);
-    });
     // Another arc that won't be drawn. Just for labels positioning
     const outerArc = d3
         .arc()
         .innerRadius(radius * 0.9)
         .outerRadius(radius * 0.9);
+    
+    let hoverData = $state({ "key": undefined, "value": undefined });
+    $effect(()=>console.log("hoverData =", hoverData))
 </script>
 
-
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
 <svg
     {width}
     {height}
@@ -63,9 +65,22 @@
 
     <g class="chart-inner" transform="translate(0, {height / 12}) scale(1.15,1.15)">
         {#each data_ready as slice}
-            <path d={arc(slice)} fill={color(slice.data[1])} stroke="white" />
+            <path d={hoverData["key"]==slice.data[0] ? hoverArc(slice) : arc(slice)} 
+            transition:draw={{ duration: 5000, delay: 0, easing: quadInOut }}
+            fill={hoverData["key"]==slice.data[0] ? d3.color(color(slice.data[1])).darker(0.5) : color(slice.data[1])}
+            stroke="white" 
+            onmouseenter={() => { hoverData = { "key": slice.data[0], "value": slice.data[1] }; }}
+            onmouseleave={() => { hoverData = { "key": undefined, "value": undefined }; }}
+            role="button"
+            tabindex="0"/>
         {/each}
     </g>
+    {#if hoverData["key"]}
+        <foreignObject x={xScale(42)} y={yScale(65)} width="15vw" height="15vh" style="pointer-events: none; font-family: 'Orbitron', sans-serif;">
+            <strong class="up">{hoverData["value"]}</strong>
+            <div class="down">{hoverData["key"]}</div>
+        </foreignObject>
+    {/if}
 </svg>
 
 
@@ -83,5 +98,24 @@
     }
     .title {
         font: bold 15px sans-serif;
+    }
+
+    foreignObject {
+        text-align: center;
+        background: rgba(182, 159, 173, 0.7); 
+        box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+        width: 12.5vh;
+        height: 12.5vh;
+        border-radius: 100%;
+        display: flex; 
+        padding-top: 4vh;
+    }
+
+    .up {
+        font-size: 20px;
+    }
+
+    .down {
+        font-size: 12px;
     }
 </style>

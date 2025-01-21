@@ -26,6 +26,7 @@
 			d={path}
 			class:active = {hoveredCountryId===id}
 			onmouseenter={()=>hoveredCountryId = id}
+			onmouseout={() => {hoveredCountryId = undefined}}
 		/>
 	{/each}
 </svg>

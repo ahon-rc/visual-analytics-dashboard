@@ -7,7 +7,7 @@
     let div_1_width = $state(400);
     let div_1_height = $state(851);
     let chloro_height = $state(300);
-    let pie_height = $state(300);
+    let pie_height = $state(250);
     let donutWidth = $state(200);
     $effect(() => donutWidth = div_1_width/2 -15);
     $effect(() => pie_height = ((div_1_height-chloro_height)/2)-20);
@@ -66,7 +66,7 @@
 <h1 style="font-family:monospace"><u>OSMI Mental Health in Tech Survey</u></h1>
 <hr>
 <main class="chart-container" bind:clientWidth={div_1_width} bind:clientHeight={div_1_height}>
-    {console.log((div_1_height-chloro_height)/2)}
+    <center><h3 style="font-family:Courier New, Courier, monospace; margin-top:0vh; margin-bottom:0vh;">Responders' Demographic</h3></center>
     <ChoroplethMap
         data={data.mhd}
         world={data.idk} 
