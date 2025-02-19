@@ -1,0 +1,1434 @@
+,family_history,sex,peer_discussion
+0,No,Male,Maybe
+1,Yes,male,Maybe
+2,No,Male ,Maybe
+3,No,male,
+4,Yes,Female,Maybe
+5,No,Male,Maybe
+6,No,M,Maybe
+7,Yes,female,Maybe
+8,Yes,Female,Yes
+9,Yes,Male,
+10,I don't know,Male,Maybe
+11,Yes,Male,No
+12,Yes,Female,Yes
+13,No,Male,No
+14,Yes,Male,Yes
+15,Yes,m,Maybe
+16,Yes,I identify as female.,Maybe
+17,No,Male,Yes
+18,I don't know,female ,
+19,Yes,M,No
+20,Yes,Male,Maybe
+21,No,male,Maybe
+22,I don't know,male,Maybe
+23,Yes,Male,Maybe
+24,No,Male,
+25,No,male,Maybe
+26,I don't know,Male,No
+27,No,male,No
+28,Yes,female,Maybe
+29,Yes,Bigender,Yes
+30,Yes,non-binary,Maybe
+31,No,Male,Yes
+32,I don't know,Male,No
+33,No,Male ,
+34,No,Male,Maybe
+35,No,Male,No
+36,Yes,Male,Yes
+37,No,male,Yes
+38,Yes,male,Maybe
+39,I don't know,Male,Yes
+40,Yes,Male,
+41,I don't know,male,Maybe
+42,Yes,Female assigned at birth ,Yes
+43,Yes,M,
+44,No,Male,No
+45,Yes,male,Maybe
+46,Yes,Male,
+47,I don't know,Male,No
+48,Yes,male,
+49,No,F,Yes
+50,I don't know,M,No
+51,Yes,Male,Yes
+52,No,Male,
+53,Yes,Male,Maybe
+54,No,Male,Maybe
+55,No,Woman,Yes
+56,Yes,Male,Yes
+57,Yes,Male,Maybe
+58,I don't know,female,No
+59,I don't know,Male,Maybe
+60,I don't know,man,Maybe
+61,No,Male,No
+62,No,Male,Yes
+63,I don't know,Male,
+64,No,Male,
+65,No,male,
+66,Yes,female,Maybe
+67,Yes,M,No
+68,Yes,Male,No
+69,I don't know,Male,No
+70,No,Male,
+71,No,male,Maybe
+72,Yes,Male,No
+73,No,male,Yes
+74,Yes,Male,Maybe
+75,Yes,Male,Maybe
+76,I don't know,M,
+77,No,F,Yes
+78,No,Male ,No
+79,Yes,Male,Maybe
+80,No,male,Maybe
+81,Yes,Male,No
+82,Yes,Male,
+83,No,Male,Maybe
+84,Yes,male,
+85,No,Male,No
+86,No,Male,Maybe
+87,I don't know,Male,No
+88,I don't know,Male,
+89,Yes,Female,Maybe
+90,I don't know,Male,No
+91,Yes,male,Maybe
+92,No,Male,Maybe
+93,No,male,No
+94,No,Female,Maybe
+95,Yes,Male,Maybe
+96,No,female,Maybe
+97,I don't know,M,No
+98,Yes,Male,
+99,Yes,Female,Maybe
+100,No,Male,No
+101,I don't know,Male,Maybe
+102,Yes,Male,Yes
+103,Yes,fm,No
+104,I don't know,Male,Maybe
+105,No,m,
+106,Yes,f,Maybe
+107,Yes,Female,Maybe
+108,No,Male,No
+109,I don't know,male,
+110,No,Male,Yes
+111,Yes,M,Yes
+112,Yes,Male,No
+113,Yes,Male,
+114,Yes,Female,
+115,No,Male,Maybe
+116,Yes,Male,Maybe
+117,Yes,f,Yes
+118,Yes,F,Maybe
+119,Yes,M,No
+120,Yes,M,Yes
+121,I don't know,Female,Maybe
+122,No,m,
+123,Yes,Cis female ,No
+124,I don't know,Female,
+125,Yes,Female,
+126,I don't know,F,Yes
+127,No,Male,
+128,No,Male,Yes
+129,No,Female,No
+130,I don't know,Male,No
+131,I don't know,M,Maybe
+132,Yes,male,Maybe
+133,I don't know,Male,Maybe
+134,Yes,Male,Maybe
+135,No,Male,No
+136,No,Male,No
+137,No,Male,Yes
+138,I don't know,female,No
+139,Yes,M,Yes
+140,Yes,"Transitioned, M2F",No
+141,I don't know,Female,No
+142,Yes,f,Maybe
+143,Yes,male,Maybe
+144,I don't know,F,No
+145,I don't know,M,
+146,No,Male,Maybe
+147,No,Male,Yes
+148,Yes,Genderfluid (born female),Yes
+149,No,m,No
+150,No,m,Maybe
+151,I don't know,Male,
+152,No,F,
+153,Yes,Male,Maybe
+154,Yes,female,
+155,I don't know,Male,Yes
+156,No,Male,Yes
+157,I don't know,m,Maybe
+158,No,Male,No
+159,No,Male,No
+160,Yes,Male,Maybe
+161,No,Female,Maybe
+162,No,Female,Maybe
+163,I don't know,F,No
+164,No,Male,Maybe
+165,No,male,No
+166,No,female,Maybe
+167,I don't know,Male,No
+168,I don't know,male,
+169,No,male,No
+170,No,Male,Yes
+171,No,male,Maybe
+172,I don't know,male,Maybe
+173,I don't know,Male,No
+174,Yes,Male,Yes
+175,No,Male,Maybe
+176,Yes,Female,No
+177,Yes,Female,Maybe
+178,No,Male,Yes
+179,Yes,Male,Yes
+180,I don't know,male,Yes
+181,No,Male,No
+182,No,Other/Transfeminine,Yes
+183,Yes,M,Maybe
+184,Yes,Male,Maybe
+185,No,M,Maybe
+186,I don't know,Male,Yes
+187,Yes,female,Yes
+188,No,male,Yes
+189,No,Male,Maybe
+190,Yes,Male,Maybe
+191,No,male,
+192,Yes,Male,No
+193,No,Male,
+194,No,Female,Yes
+195,I don't know,Male,Yes
+196,Yes,Male,Maybe
+197,Yes,Male,
+198,Yes,Male,Yes
+199,Yes,Male,No
+200,Yes,female,Maybe
+201,No,Male,Yes
+202,No,M,Yes
+203,Yes,Female or Multi-Gender Femme,Yes
+204,No,Male,Maybe
+205,No,Male,Maybe
+206,Yes,Male,Yes
+207,No,male,No
+208,Yes,male,No
+209,No,Male,Maybe
+210,No,Male,Maybe
+211,Yes,Male,Maybe
+212,Yes,female,Yes
+213,No,m,No
+214,No,male,No
+215,No,Male,No
+216,No,male,Maybe
+217,No,Male,Maybe
+218,No,Male,Maybe
+219,No,m,No
+220,I don't know,Male ,Yes
+221,Yes,M,Maybe
+222,No,Male,Maybe
+223,Yes,female,Yes
+224,I don't know,Male,Yes
+225,Yes,female,Maybe
+226,Yes,M,No
+227,No,M,Maybe
+228,I don't know,M,Yes
+229,Yes,female,No
+230,I don't know,Female,No
+231,Yes,Male,Maybe
+232,No,Male,No
+233,Yes,Female,Yes
+234,Yes,Male,Maybe
+235,Yes,Male,Yes
+236,I don't know,male,
+237,No,male,No
+238,Yes,Male,
+239,No,m,Maybe
+240,I don't know,male,No
+241,No,Male,Yes
+242,Yes,Female ,
+243,I don't know,Male ,No
+244,No,m,
+245,I don't know,Female,Maybe
+246,No,Male,Maybe
+247,Yes,woman,Maybe
+248,No,M,No
+249,Yes,M,Maybe
+250,Yes,female,No
+251,I don't know,female,No
+252,Yes,Female,Maybe
+253,Yes,male,Maybe
+254,Yes,Male,
+255,Yes,Male,Yes
+256,Yes,Male,Maybe
+257,No,Male,Maybe
+258,Yes,female,Maybe
+259,Yes,Male,Yes
+260,Yes,Male,Yes
+261,No,f,Maybe
+262,No,M,Maybe
+263,Yes,Female,Maybe
+264,No,Male,Maybe
+265,No,Male,Maybe
+266,Yes,Female,Maybe
+267,Yes,female,Yes
+268,Yes,female,No
+269,No,female,Maybe
+270,Yes,Male,No
+271,Yes,Male,Yes
+272,No,Male,Yes
+273,I don't know,Male,Maybe
+274,Yes,male,
+275,I don't know,Male,Maybe
+276,I don't know,Male,No
+277,No,Male,Yes
+278,Yes,m,
+279,Yes,female/woman,Maybe
+280,Yes,Cis male,No
+281,No,Male,Maybe
+282,Yes,Female,No
+283,Yes,Male ,
+284,I don't know,Male,Maybe
+285,Yes,male,No
+286,Yes,f,Maybe
+287,I don't know,Male.,No
+288,Yes,m,No
+289,Yes,m,No
+290,No,male,No
+291,I don't know,Androgynous,Maybe
+292,Yes,male,Yes
+293,I don't know,Male,
+294,Yes,Female,No
+295,Yes,Male,Maybe
+296,Yes,Male,
+297,Yes,F,Maybe
+298,Yes,Female,Yes
+299,No,Male,Maybe
+300,I don't know,"male 9:1 female, roughly",No
+301,Yes,m,Yes
+302,Yes,,Yes
+303,No,m,Maybe
+304,Yes,F,
+305,No,M,Maybe
+306,Yes,Male,Maybe
+307,No,female,Maybe
+308,No,Male,
+309,Yes,male,
+310,Yes,Female,No
+311,Yes,m,
+312,No,Male,Maybe
+313,Yes,male,Maybe
+314,No,Male,Maybe
+315,Yes,F,
+316,No,Male,Yes
+317,Yes,Male,Maybe
+318,Yes,Male,Maybe
+319,Yes,male,Yes
+320,No,Female,Maybe
+321,Yes,Female,Maybe
+322,Yes,Female,Yes
+323,Yes,Female,Yes
+324,Yes,female,Maybe
+325,No,Female,Maybe
+326,No,Male,Maybe
+327,Yes,Male,No
+328,Yes,Male,No
+329,No,male,Maybe
+330,No,Male,
+331,I don't know,Female,Yes
+332,I don't know,male,Maybe
+333,Yes,Male,Yes
+334,Yes,Male,Yes
+335,Yes,male,Maybe
+336,No,Female,Yes
+337,No,Male,
+338,Yes,F,Yes
+339,No,M,Yes
+340,I don't know,Male,
+341,No,Male,Maybe
+342,No,Male,Yes
+343,No,male,No
+344,Yes,female,Maybe
+345,I don't know,F,No
+346,I don't know,Male,No
+347,I don't know,Male,Maybe
+348,Yes,Female,Yes
+349,Yes,Male,Yes
+350,No,Male,Maybe
+351,No,male,Maybe
+352,I don't know,Male,Maybe
+353,No,Male,
+354,Yes,Male,
+355,Yes,male,Yes
+356,No,M,No
+357,I don't know,Female,Yes
+358,Yes,Male,No
+359,Yes,Male,No
+360,No,M,
+361,Yes,f,Yes
+362,No,male,Maybe
+363,Yes,Male,Maybe
+364,No,Male,Yes
+365,No,f,Maybe
+366,Yes,Male,Yes
+367,Yes,female,Yes
+368,No,Male (cis),Maybe
+369,Yes,Female,Yes
+370,No,Female,Maybe
+371,No,male,Maybe
+372,Yes,Other,Yes
+373,No,Male,
+374,I don't know,Male ,
+375,Yes,Male,Maybe
+376,No,F,No
+377,Yes,female,Maybe
+378,Yes,Female,
+379,Yes,Female ,Maybe
+380,Yes,male,Yes
+381,Yes,M,Maybe
+382,Yes,Female,Maybe
+383,I don't know,Male,Maybe
+384,I don't know,Female,No
+385,Yes,male,Maybe
+386,No,Male,
+387,Yes,F,
+388,Yes,Female,Maybe
+389,Yes,Male,Yes
+390,No,female,No
+391,No,female,No
+392,I don't know,Male,No
+393,Yes,Male,No
+394,I don't know,male,Yes
+395,No,male,
+396,I don't know,f,No
+397,No,man,Maybe
+398,Yes,Male,Maybe
+399,Yes,Female,
+400,I don't know,male,Maybe
+401,No,Male,No
+402,Yes,male,Yes
+403,Yes,Female,
+404,Yes,Male,Maybe
+405,I don't know,male,Maybe
+406,I don't know,Male,
+407,Yes,m,Maybe
+408,Yes,Male,No
+409,No,Male,Yes
+410,I don't know,male,No
+411,Yes,Male,Maybe
+412,Yes,Female,Maybe
+413,No,Male,
+414,No,Male,Yes
+415,I don't know,Male,Yes
+416,No,Female,Yes
+417,Yes,Female,
+418,I don't know,Male,
+419,Yes,Male,Maybe
+420,Yes,nb masculine,Yes
+421,No,Female,Maybe
+422,Yes,Male,Yes
+423,Yes,M,No
+424,I don't know,male,No
+425,No,Male,Yes
+426,I don't know,m,No
+427,No,f,No
+428,Yes,male,
+429,Yes,Cisgender Female,Maybe
+430,Yes,Male,Yes
+431,Yes,Male,Maybe
+432,No,Male,Yes
+433,No,male,
+434,No,Male,Maybe
+435,No,Male,Yes
+436,No,Male,Maybe
+437,No,Male,No
+438,Yes,male,Yes
+439,No,male,Maybe
+440,Yes,Female,Maybe
+441,I don't know,m,
+442,Yes,Male,
+443,I don't know,Male,
+444,Yes,male,
+445,I don't know,Male,No
+446,I don't know,Male,Maybe
+447,No,female,Maybe
+448,No,Male,Maybe
+449,No,male,No
+450,No,Male,
+451,No,m,Maybe
+452,Yes,M,No
+453,Yes,Male,Yes
+454,Yes,F,Yes
+455,Yes,male,No
+456,Yes,male,Maybe
+457,No,f,Maybe
+458,No,Male,Yes
+459,I don't know,Male,Yes
+460,Yes,m,No
+461,Yes,Female,No
+462,Yes,Male,Maybe
+463,No,M,
+464,I don't know,Man,No
+465,No,male,Yes
+466,I don't know,male,Maybe
+467,Yes,Female,No
+468,Yes,Male,
+469,Yes,Male,Maybe
+470,Yes,Male,Yes
+471,Yes,M,Maybe
+472,No,Male,Maybe
+473,I don't know,Male,Maybe
+474,Yes,Female,Maybe
+475,No,Female,No
+476,Yes,m,No
+477,Yes,Sex is male,No
+478,Yes,Male,Maybe
+479,No,Male,No
+480,No,M,No
+481,Yes,Male,No
+482,I don't know,male,
+483,I don't know,Male,Maybe
+484,No,f,No
+485,Yes,Male,
+486,Yes,Male,
+487,Yes,m,Maybe
+488,No,male,
+489,Yes,male,Yes
+490,No,Male,Yes
+491,No,Female,No
+492,Yes,Male,No
+493,I don't know,m,Maybe
+494,No,Male,Maybe
+495,No,Male,Maybe
+496,Yes,Male,Yes
+497,I don't know,Male,Yes
+498,Yes,Male,
+499,No,Male,
+500,No,Male,No
+501,Yes,Female,
+502,Yes,none of your business,Maybe
+503,I don't know,Male,Maybe
+504,No,male,Maybe
+505,Yes,male,No
+506,No,M,Maybe
+507,Yes,Female,Yes
+508,Yes,m,Maybe
+509,Yes,Male,Maybe
+510,Yes,Female,Maybe
+511,I don't know,male,
+512,Yes,male,No
+513,Yes,Male,Yes
+514,Yes,female,No
+515,No,Male,No
+516,No,M,
+517,No,Male,No
+518,Yes,Female,
+519,Yes,F,
+520,Yes,Female,No
+521,I don't know,Male,No
+522,No,M,
+523,Yes,Male,No
+524,No,Male,
+525,No,Male,Maybe
+526,No,Male,Yes
+527,Yes,Female,Maybe
+528,I don't know,male,No
+529,Yes,Male,No
+530,I don't know,Male,
+531,No,Male,
+532,I don't know,male,No
+533,Yes,Male,No
+534,No,Male,
+535,I don't know,Male,No
+536,Yes,Female,Maybe
+537,Yes,Male,No
+538,No,Male,Yes
+539,I don't know,m,
+540,No,F,Maybe
+541,Yes,Male,
+542,Yes,Male,Maybe
+543,I don't know,male,Maybe
+544,Yes,Female,Yes
+545,Yes,Male,No
+546,Yes,Male,
+547,No,m,No
+548,Yes,Male,Yes
+549,No,male,Maybe
+550,Yes,male,Maybe
+551,No,Male,Yes
+552,Yes,Male,No
+553,Yes,male,No
+554,I don't know,male,Yes
+555,Yes,Male,Maybe
+556,Yes,Male,Maybe
+557,No,Male,Yes
+558,Yes,female,No
+559,No,Female,No
+560,No,Male,Yes
+561,Yes,genderqueer,Maybe
+562,No,M,Maybe
+563,Yes,male,
+564,Yes,Male,Maybe
+565,No,male,Maybe
+566,No,f,No
+567,No,male,No
+568,Yes,Male,Maybe
+569,Yes,male,Maybe
+570,No,Male,No
+571,I don't know,f,Yes
+572,No,Male,Yes
+573,No,Male,No
+574,Yes,f,Yes
+575,I don't know,m,
+576,Yes,male,No
+577,Yes,Female,No
+578,I don't know,Male,Maybe
+579,I don't know,Male,Maybe
+580,Yes,Male,
+581,Yes,Male,No
+582,No,Male,
+583,Yes,Male,Maybe
+584,Yes,Male,Maybe
+585,No,male,Maybe
+586,No,Male,Maybe
+587,Yes,Male,No
+588,No,Male,Maybe
+589,I don't know,Male,Maybe
+590,Yes,Male,Yes
+591,I don't know,Female,Yes
+592,Yes,M,Maybe
+593,I don't know,male,Yes
+594,No,Male,Maybe
+595,Yes,Male,No
+596,Yes,Female,
+597,Yes,male,
+598,No,Male,Maybe
+599,I don't know,M,Yes
+600,Yes,Male,Maybe
+601,No,m,Maybe
+602,Yes,Male,
+603,Yes,Male,Yes
+604,No,m,Maybe
+605,Yes,Male,Maybe
+606,Yes,Female,No
+607,No,Male,
+608,No,m,
+609,Yes,Male,No
+610,Yes,Female,Yes
+611,No,Male,Yes
+612,Yes,Male,No
+613,I don't know,Male,Yes
+614,No,Male,
+615,No,male,Yes
+616,Yes,Male,Yes
+617,Yes,cis male,Maybe
+618,Yes,Male,Yes
+619,I don't know,M,
+620,Yes,Human,Yes
+621,No,Male,Maybe
+622,No,male,No
+623,No,Female,
+624,Yes,Genderfluid,Maybe
+625,No,Male,No
+626,No,M,Maybe
+627,No,Male,Maybe
+628,I don't know,Male,Maybe
+629,Yes,Female,No
+630,Yes,male,Yes
+631,Yes,Male,
+632,I don't know,Male,No
+633,No,male,No
+634,No,M,Maybe
+635,Yes,male,Maybe
+636,No,m,Maybe
+637,Yes,M,Maybe
+638,No,male,Maybe
+639,No,m,
+640,No,male,Maybe
+641,I don't know,Male,Maybe
+642,Yes,Male,Yes
+643,Yes,,Maybe
+644,Yes,Male,Yes
+645,No,male,No
+646,No,Male,
+647,No,F,
+648,Yes,Enby,No
+649,No,Male,No
+650,No,male,No
+651,No,Malr,
+652,Yes,male,No
+653,Yes,f,No
+654,Yes,Male,No
+655,Yes,Male,No
+656,I don't know,Male,Maybe
+657,No,m,No
+658,No,female,Maybe
+659,Yes,Male,Maybe
+660,Yes,Female ,No
+661,I don't know,Male,Yes
+662,I don't know,Female,
+663,Yes,Female,Yes
+664,I don't know,Male,No
+665,I don't know,Male,Maybe
+666,Yes,Male,Maybe
+667,I don't know,Male,Maybe
+668,Yes,Female,
+669,Yes,f,Maybe
+670,No,Female,No
+671,Yes,female,No
+672,No,Male,Yes
+673,I don't know,genderqueer woman,Maybe
+674,I don't know,Male,No
+675,No,male,No
+676,Yes,Female,
+677,I don't know,male,No
+678,I don't know,female,Maybe
+679,I don't know,Female,Yes
+680,Yes,Female,Maybe
+681,Yes,m,No
+682,No,male,
+683,No,Female,No
+684,No,Male,Maybe
+685,Yes,Male,Maybe
+686,Yes,Female,Maybe
+687,No,female,Yes
+688,No,m,Yes
+689,Yes,male,Maybe
+690,Yes,male,Maybe
+691,I don't know,Male,Maybe
+692,No,m,Yes
+693,I don't know,m,Maybe
+694,Yes,M,No
+695,Yes,Male,Maybe
+696,I don't know,female,
+697,I don't know,Female,No
+698,I don't know,mtf,
+699,Yes,f,No
+700,Yes,female,
+701,Yes,male,Yes
+702,Yes,Male,No
+703,I don't know,Male,Maybe
+704,No,male,Yes
+705,No,Male,No
+706,I don't know,Male,No
+707,I don't know,male,No
+708,I don't know,Male,
+709,No,M,No
+710,No,female,Maybe
+711,I don't know,man,
+712,No,female,
+713,Yes,Male,Yes
+714,I don't know,male,No
+715,Yes,f,Yes
+716,No,Male,
+717,Yes,Male,Yes
+718,Yes,Female,Maybe
+719,I don't know,male,
+720,No,female ,Yes
+721,No,Male,Maybe
+722,Yes,Male,No
+723,No,Male,
+724,Yes,Male,Maybe
+725,Yes,m,No
+726,Yes,female,No
+727,Yes,Male,
+728,No,m,
+729,Yes,male,Maybe
+730,I don't know,Male,No
+731,Yes,M,No
+732,Yes,Male,No
+733,No,Male,Yes
+734,Yes,Female,
+735,Yes,Female,
+736,I don't know,male,
+737,I don't know,Male,Yes
+738,I don't know,Male,Yes
+739,No,Male,
+740,No,m,Maybe
+741,Yes,Female,Yes
+742,Yes,Woman,Maybe
+743,Yes,Female,
+744,Yes,female,No
+745,Yes,Male,Yes
+746,No,male,
+747,I don't know,m,
+748,Yes,Male,
+749,I don't know,Male,
+750,Yes,Queer,No
+751,No,male,
+752,Yes,female,
+753,Yes,female,
+754,No,Male,Yes
+755,Yes,Male,No
+756,Yes,F,Maybe
+757,I don't know,Female,Yes
+758,Yes,male,No
+759,No,Male,Yes
+760,I don't know,M,Maybe
+761,I don't know,female,Maybe
+762,No,Male,Maybe
+763,I don't know,female,Maybe
+764,Yes,Male ,
+765,I don't know,Male,No
+766,I don't know,Male,
+767,No,m,No
+768,No,m,
+769,Yes,Female,
+770,Yes,M,No
+771,Yes,Male,Yes
+772,Yes,m,Maybe
+773,No,Agender,Yes
+774,Yes,female,
+775,Yes,Male,
+776,Yes,m,No
+777,Yes,Male,Yes
+778,Yes,Male,No
+779,Yes,F,Maybe
+780,I don't know,Female,Maybe
+781,No,Male,No
+782,Yes,female,Yes
+783,Yes,female,Maybe
+784,No,Male,
+785,I don't know,male,Yes
+786,No,Woman,
+787,No,Dude,Maybe
+788,No,M,
+789,Yes,Male,
+790,No,Male,Yes
+791,Yes,F,No
+792,Yes,M,Yes
+793,I don't know,male,No
+794,No,Male,No
+795,Yes,female,Maybe
+796,No,Male,Maybe
+797,I don't know,Fluid,
+798,Yes,Male,No
+799,No,Male,Maybe
+800,Yes,female,
+801,No,F,No
+802,I don't know,Male,
+803,No,Male,No
+804,Yes,Male,Maybe
+805,I don't know,Male,Yes
+806,No,Male,No
+807,Yes,male,No
+808,No,male,
+809,Yes,Male,Maybe
+810,Yes,Female,No
+811,I don't know,Male,
+812,No,male,Maybe
+813,No,Male,Yes
+814,Yes,Male,Maybe
+815,No,Male,Maybe
+816,Yes,Female,
+817,No,male,Yes
+818,No,Male,No
+819,Yes,Male,Maybe
+820,No,Male,
+821,I don't know,M,No
+822,Yes,Female,No
+823,No,male,
+824,I don't know,Male,No
+825,Yes,Male,Maybe
+826,Yes,M,No
+827,I don't know,M,Yes
+828,No,Female,
+829,No,Male,Maybe
+830,Yes,f,No
+831,Yes,Female,No
+832,Yes,Male,Maybe
+833,No,Male,Maybe
+834,No,male,Maybe
+835,I don't know,Male,Maybe
+836,No,Male,Maybe
+837,I don't know,Male,Maybe
+838,Yes,Male,Maybe
+839,Yes,Male,
+840,Yes,I'm a man why didn't you make this a drop down question. You should of asked sex? And I would of answered yes please. Seriously how much text can this take? ,
+841,I don't know,Male,No
+842,No,male,No
+843,Yes,Male,
+844,Yes,Male,Yes
+845,No,Male,Maybe
+846,I don't know,woman,Yes
+847,Yes,male,Maybe
+848,Yes,Female,No
+849,No,male,Maybe
+850,No,m,
+851,Yes,Male,No
+852,No,Male,No
+853,I don't know,Male,No
+854,Yes,Male,No
+855,Yes,mail,Yes
+856,Yes,female,
+857,I don't know,female ,Yes
+858,No,m,Maybe
+859,No,Male,Yes
+860,No,Male,Yes
+861,Yes,female,Maybe
+862,Yes,male,Maybe
+863,I don't know,Male,Yes
+864,Yes,male,Maybe
+865,No,M,Yes
+866,No,M,No
+867,Yes,male,
+868,Yes,Female,Maybe
+869,Yes,male,No
+870,Yes,F,No
+871,Yes,M,
+872,No,M,
+873,Yes,male,
+874,I don't know,Male,Maybe
+875,No,female,Maybe
+876,No,Male,Maybe
+877,Yes,M,
+878,I don't know,Female,Maybe
+879,No,male,
+880,I don't know,Female,Maybe
+881,Yes,male,No
+882,Yes,Male,No
+883,No,M,Maybe
+884,No,male,No
+885,No,F,
+886,Yes,Male,
+887,I don't know,Female,
+888,I don't know,Male,
+889,No,male,Yes
+890,I don't know,Male,Yes
+891,No,Male,
+892,No,Male,
+893,Yes,Male,Yes
+894,I don't know,male,
+895,Yes,m,No
+896,Yes,male,
+897,No,F,
+898,I don't know,Male,Maybe
+899,I don't know,Male,
+900,No,Male,
+901,No,female,
+902,Yes,M,
+903,No,male,Yes
+904,No,Male,No
+905,Yes,Female,No
+906,No,Male,No
+907,No,female,
+908,I don't know,female,Maybe
+909,No,Male,
+910,Yes,male,No
+911,Yes,Male,Maybe
+912,No,F,
+913,Yes,M,No
+914,No,Female,
+915,Yes,Male,Yes
+916,Yes,Male,Maybe
+917,No,male,No
+918,Yes,Female,
+919,No,Male,Maybe
+920,Yes,Male,
+921,No,m,
+922,No,Male,
+923,No,M,No
+924,No,Male,Yes
+925,No,M|,
+926,I don't know,female,Maybe
+927,I don't know,Female,
+928,Yes,male,No
+929,I don't know,m,Maybe
+930,Yes,non-binary,Maybe
+931,Yes,male,Maybe
+932,No,male,No
+933,No,Female,Maybe
+934,No,Male,Yes
+935,No,male,Maybe
+936,No,M,Maybe
+937,No,Male,Yes
+938,Yes,M,Maybe
+939,Yes,female,Maybe
+940,Yes,Male,
+941,Yes,Male,No
+942,I don't know,Female,No
+943,Yes,m,Maybe
+944,Yes,male,Maybe
+945,Yes,Male,Maybe
+946,I don't know,M,
+947,No,male,Maybe
+948,Yes,Female,No
+949,No,Male,
+950,Yes,Male,No
+951,No,male,Yes
+952,I don't know,Male ,
+953,Yes,Male,No
+954,Yes,M,Maybe
+955,No,Male,No
+956,Yes,Male,Maybe
+957,I don't know,f,
+958,I don't know,M,No
+959,No,M,Maybe
+960,No,male,Maybe
+961,No,Male,Yes
+962,Yes,Female,
+963,No,M,Yes
+964,No,Male,No
+965,Yes,Male,Maybe
+966,Yes,m,No
+967,Yes,male,Yes
+968,Yes,Male,Yes
+969,Yes,male,Yes
+970,I don't know,Female,No
+971,No,Male,Maybe
+972,Yes,female,Yes
+973,Yes,Male,Yes
+974,I don't know,Male,No
+975,Yes,Male,Maybe
+976,I don't know,Male,Maybe
+977,Yes,Male,No
+978,No,Male,No
+979,No,female,No
+980,I don't know,Male,Maybe
+981,Yes,Male,Yes
+982,Yes,male,Maybe
+983,No,m,
+984,I don't know,m,Maybe
+985,No,Male,Yes
+986,Yes,male,
+987,No,male,Yes
+988,No,M,No
+989,I don't know,Male,
+990,Yes,Female,Yes
+991,Yes,Male,No
+992,No,male,Maybe
+993,No,male,Maybe
+994,I don't know,male,Yes
+995,I don't know,m,Maybe
+996,Yes,male,No
+997,Yes,Male,Yes
+998,Yes,Male,Yes
+999,Yes,Male,No
+1000,No,Male,
+1001,No,Male,Maybe
+1002,No,male,Maybe
+1003,No,Male,Maybe
+1004,No,Male/genderqueer,No
+1005,No,Male,
+1006,I don't know,Male,Maybe
+1007,I don't know,Male,Yes
+1008,No,Female,Yes
+1009,Yes,fem,No
+1010,Yes,male,
+1011,No,Male,Maybe
+1012,I don't know,Female,Maybe
+1013,Yes,Female,No
+1014,I don't know,Male,No
+1015,Yes,Male,Yes
+1016,Yes,male,Maybe
+1017,No,female,Yes
+1018,No,m,Maybe
+1019,Yes,Male,
+1020,Yes,Male,No
+1021,No,m,Maybe
+1022,No,Female,Yes
+1023,No,male,Maybe
+1024,No,Male,Maybe
+1025,I don't know,Male,No
+1026,Yes,Male,Yes
+1027,Yes,Male,
+1028,Yes,Male,
+1029,Yes,Male,Maybe
+1030,No,Female,No
+1031,I don't know,Female,Maybe
+1032,No,Female,Maybe
+1033,No,Female,
+1034,Yes,Male,No
+1035,No,Male,Yes
+1036,Yes,F,Maybe
+1037,Yes,m,Maybe
+1038,No,male,
+1039,Yes,male,Maybe
+1040,Yes,Male,No
+1041,No,Male,
+1042,Yes,Male,No
+1043,No,male,No
+1044,No,Male,Yes
+1045,Yes,Male,Yes
+1046,Yes,Male,Maybe
+1047,No,m,
+1048,Yes,Female,No
+1049,Yes,F,
+1050,Yes,m,No
+1051,I don't know,male,Yes
+1052,No,Male,Maybe
+1053,Yes,M,Maybe
+1054,I don't know,Male,
+1055,Yes,Female,Yes
+1056,No,male,No
+1057,Yes,Male,No
+1058,Yes,Male,
+1059,No,Male,No
+1060,No,M,
+1061,No,male,Maybe
+1062,Yes,Nonbinary,No
+1063,No,male ,Maybe
+1064,No,male,Yes
+1065,No,Male,No
+1066,Yes,M,
+1067,Yes,Male,Maybe
+1068,I don't know,Male,Maybe
+1069,No,male,Maybe
+1070,No,Male,Yes
+1071,Yes,m,No
+1072,I don't know,Male,No
+1073,Yes,Male,No
+1074,I don't know,Male,
+1075,No,Male,Maybe
+1076,I don't know,male,
+1077,I don't know,Male,Maybe
+1078,Yes,human,
+1079,Yes,Male,No
+1080,Yes,m,Maybe
+1081,Yes,Male,No
+1082,Yes,Female,No
+1083,I don't know,female,No
+1084,Yes,Male,
+1085,Yes,female,No
+1086,I don't know,male,
+1087,Yes,woman,Yes
+1088,No,male,
+1089,Yes,m,
+1090,I don't know,"Female (props for making this a freeform field, though)",No
+1091,Yes,female,No
+1092,Yes,Male,Maybe
+1093,Yes,male,
+1094,Yes,Male,No
+1095,I don't know,Male,Yes
+1096,Yes,M,Maybe
+1097,No,Male,
+1098,Yes,female,
+1099,I don't know,m,No
+1100,Yes,male,No
+1101,No,female,Maybe
+1102,Yes,Nonbinary,
+1103,Yes,male,Maybe
+1104,No,m,
+1105,No,male,No
+1106,I don't know,M,No
+1107,Yes,Female ,
+1108,I don't know,male,
+1109,No,Female,Yes
+1110,I don't know,m,Maybe
+1111,No,Male,Maybe
+1112,No,male,No
+1113,No,Male,Yes
+1114,Yes,Male,Maybe
+1115,No,Male,Maybe
+1116,I don't know,Male,Maybe
+1117,No, Female,Yes
+1118,Yes,Male,No
+1119,Yes,Male,No
+1120,I don't know,male,No
+1121,Yes,M,Maybe
+1122,No,male,No
+1123,Yes,Male,Maybe
+1124,I don't know,F,
+1125,Yes,Female ,No
+1126,No,male,No
+1127,Yes,Male,Maybe
+1128,Yes,Female,No
+1129,Yes,Male,No
+1130,Yes,Male,Yes
+1131,Yes,Male,No
+1132,Yes,Female ,Maybe
+1133,Yes,Male,Yes
+1134,Yes,Female,Yes
+1135,Yes,Male,Yes
+1136,Yes,F,No
+1137,Yes,female,No
+1138,Yes,male,
+1139,No,Male,Yes
+1140,Yes,Unicorn,
+1141,No,male,Maybe
+1142,Yes,M,Yes
+1143,I don't know,Male,Yes
+1144,I don't know,Cis Male,Yes
+1145,No,male,Maybe
+1146,No,Male,Yes
+1147,No,m,No
+1148,Yes,M,Maybe
+1149,No,female,Yes
+1150,No,male,Yes
+1151,No,Male,No
+1152,No,Male,Yes
+1153,Yes,Male,Maybe
+1154,I don't know,F,No
+1155,Yes,Male,Maybe
+1156,Yes,male,No
+1157,I don't know,Female,No
+1158,No,Male,Maybe
+1159,I don't know,Male,Yes
+1160,Yes,male,No
+1161,No,Male,Maybe
+1162,Yes,Female,Maybe
+1163,Yes,male,No
+1164,Yes,Male,Yes
+1165,I don't know,female,No
+1166,Yes,female,Yes
+1167,Yes,Female,No
+1168,Yes,male,No
+1169,Yes,Male,No
+1170,No,m,No
+1171,No,Male,Maybe
+1172,No,m,
+1173,No,Male,
+1174,I don't know,"Male (trans, FtM)",No
+1175,Yes,Male,Maybe
+1176,Yes,Male,Yes
+1177,Yes,Male,Maybe
+1178,I don't know,female,Maybe
+1179,No,male,No
+1180,Yes,Male,
+1181,Yes,female,No
+1182,I don't know,Female,Maybe
+1183,Yes,male,Yes
+1184,I don't know,Male,Maybe
+1185,No,Male,Yes
+1186,Yes,m,No
+1187,Yes,Male,Yes
+1188,No,Male,Maybe
+1189,Yes,Male,
+1190,Yes,male,No
+1191,No,Male,Maybe
+1192,Yes,F,Maybe
+1193,No,Female ,No
+1194,Yes,Female,Maybe
+1195,Yes,Female,
+1196,Yes,female,No
+1197,Yes,m,No
+1198,I don't know,Male,No
+1199,Yes,Male,No
+1200,No,male,Maybe
+1201,Yes,male,Maybe
+1202,Yes,female,No
+1203,Yes,Male,Maybe
+1204,Yes,Male,Yes
+1205,No,Male,Maybe
+1206,I don't know,Male,Maybe
+1207,Yes,female,No
+1208,Yes,female,Maybe
+1209,No,female,No
+1210,I don't know,m,
+1211,Yes,Male,No
+1212,No,Female,Maybe
+1213,No,Male,Maybe
+1214,Yes,Female,
+1215,Yes,F,
+1216,No,Male,No
+1217,No,m,
+1218,I don't know,Male,Maybe
+1219,I don't know,Male,
+1220,Yes,female,
+1221,I don't know,Male,Yes
+1222,Yes,Male,No
+1223,No,Male,Yes
+1224,I don't know,F,Yes
+1225,Yes,male,Maybe
+1226,Yes,male,Maybe
+1227,Yes,Cis-woman,Maybe
+1228,I don't know,male,No
+1229,Yes,Male,
+1230,No,m,Maybe
+1231,Yes,Male,Yes
+1232,Yes,male,Maybe
+1233,Yes,Genderqueer,Maybe
+1234,Yes,Male,Maybe
+1235,Yes,non-binary,Maybe
+1236,Yes,woman,No
+1237,Yes,male,No
+1238,No,Male,Maybe
+1239,Yes,Male,
+1240,Yes,male,No
+1241,I don't know,M,Maybe
+1242,I don't know,Male,No
+1243,No,male,No
+1244,No,male,Maybe
+1245,No,Male,Maybe
+1246,Yes,male,Yes
+1247,Yes,male,
+1248,I don't know,F,
+1249,Yes,male,Maybe
+1250,No,cisdude,Maybe
+1251,Yes,Female,Maybe
+1252,Yes,female,
+1253,No,Male,Maybe
+1254,Yes,male,
+1255,No,M,No
+1256,Yes,male,
+1257,Yes,Male,Maybe
+1258,I don't know,Male,Maybe
+1259,I don't know,Male,Maybe
+1260,No,male,No
+1261,Yes,male,
+1262,Yes,Female,
+1263,Yes,Male,Maybe
+1264,Yes,Female,No
+1265,Yes,male,
+1266,Yes,Male ,Maybe
+1267,No,male,No
+1268,No,Male,Maybe
+1269,Yes,male,Maybe
+1270,Yes,female,Yes
+1271,Yes,male,Maybe
+1272,I don't know,male,
+1273,Yes,Genderflux demi-girl,Yes
+1274,No,Male,Yes
+1275,Yes,Male,No
+1276,I don't know,Man,
+1277,Yes,female,
+1278,Yes,male,Yes
+1279,Yes,Male,Yes
+1280,Yes,Male,Maybe
+1281,I don't know,Male,
+1282,Yes,M,No
+1283,No,male,No
+1284,Yes,Male,Maybe
+1285,I don't know,Male,Maybe
+1286,Yes,Female,No
+1287,No,m,Yes
+1288,No,male,
+1289,No,Male,No
+1290,Yes,Female,Maybe
+1291,Yes,male,Maybe
+1292,I don't know,female-bodied; no feelings about gender,Maybe
+1293,Yes,Male,
+1294,Yes,female,No
+1295,Yes,Male,No
+1296,I don't know,Male,No
+1297,No,male,Maybe
+1298,Yes,m,No
+1299,Yes,M,
+1300,Yes,M,Yes
+1301,Yes,Male,
+1302,Yes,Male,No
+1303,Yes,f,No
+1304,I don't know,male,
+1305,No,Male,
+1306,Yes,Female,Maybe
+1307,Yes,Male,No
+1308,I don't know,male,No
+1309,No,male,
+1310,No,male,No
+1311,Yes,cis man,Yes
+1312,Yes,,No
+1313,Yes,Female,
+1314,No,Male,No
+1315,Yes,F,
+1316,I don't know,female,Yes
+1317,Yes,Male,Maybe
+1318,No,Female,No
+1319,No,Male,No
+1320,Yes,Female,No
+1321,I don't know,f,
+1322,I don't know,Male (cis),Maybe
+1323,Yes,Female,Maybe
+1324,Yes,male,Yes
+1325,No,M,Yes
+1326,Yes,female,
+1327,Yes,f,
+1328,No,male,Yes
+1329,No,Male,No
+1330,Yes,female,Yes
+1331,Yes,female,Maybe
+1332,No,male,
+1333,Yes,Male,No
+1334,Yes,Male,Yes
+1335,I don't know,Male,No
+1336,I don't know,Female,Maybe
+1337,No,Male,Maybe
+1338,Yes,male,Maybe
+1339,I don't know,male,Maybe
+1340,No,Male,No
+1341,No,female,Maybe
+1342,I don't know,male,Maybe
+1343,Yes,Male,Maybe
+1344,Yes,female,No
+1345,No,Male,Maybe
+1346,No,female,No
+1347,I don't know,male,
+1348,No,Male,Yes
+1349,Yes,Male,No
+1350,Yes,Male,No
+1351,No,female,Yes
+1352,No,Male,No
+1353,I don't know,female,No
+1354,Yes,male,
+1355,I don't know,Male,Maybe
+1356,No,Male,Maybe
+1357,No,Male,Yes
+1358,I don't know,Male,Yes
+1359,I don't know,Female,Maybe
+1360,Yes,Male,Maybe
+1361,I don't know,Male,Maybe
+1362,No,Male,Maybe
+1363,Yes,Male,No
+1364,Yes,Female,
+1365,No,Female,
+1366,Yes,male,Maybe
+1367,Yes,Male ,
+1368,No,Male,Maybe
+1369,No,male,
+1370,Yes,Male,
+1371,I don't know,Male,No
+1372,Yes,F,No
+1373,Yes,m,Maybe
+1374,No,AFAB,
+1375,I don't know,male,No
+1376,Yes,male,No
+1377,Yes,male,Yes
+1378,Yes,Female,No
+1379,Yes,Female ,Maybe
+1380,Yes,Female,Maybe
+1381,No,Male,No
+1382,Yes,Male,
+1383,No,Male,Yes
+1384,No,male,No
+1385,No,Male,No
+1386,I don't know,F,No
+1387,Yes,Female,Maybe
+1388,I don't know,male,Maybe
+1389,No,male,Yes
+1390,Yes,Male,No
+1391,No,M,No
+1392,Yes,Female,No
+1393,Yes,Agender,Yes
+1394,Yes,Male,Maybe
+1395,Yes,male ,Maybe
+1396,Yes,male,
+1397,Yes,Male,No
+1398,Yes,Male,Yes
+1399,Yes,Male,Maybe
+1400,Yes,female,Yes
+1401,Yes,male,Maybe
+1402,Yes,Male,Maybe
+1403,Yes,Male,No
+1404,Yes,Male,
+1405,I don't know,Male,No
+1406,Yes,Transgender woman,No
+1407,Yes,male,No
+1408,No,m,
+1409,I don't know,Male,Maybe
+1410,No,Male,No
+1411,No,Female,No
+1412,No,male,Maybe
+1413,Yes,female,Yes
+1414,Yes,female,Yes
+1415,Yes,Female,Maybe
+1416,No,Male,No
+1417,Yes,Male,No
+1418,No,M,No
+1419,Yes,male,Yes
+1420,I don't know,Male,
+1421,I don't know,male,Yes
+1422,No,male,Maybe
+1423,No,Male,No
+1424,I don't know,female,Maybe
+1425,I don't know,Male,Maybe
+1426,I don't know,Female,Maybe
+1427,Yes,female,Yes
+1428,Yes,Female ,
+1429,Yes,MALE,
+1430,Yes,Male,Yes
+1431,Yes,Female,Maybe
+1432,I don't know,non-binary,Maybe

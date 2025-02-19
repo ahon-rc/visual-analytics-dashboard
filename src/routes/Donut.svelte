@@ -10,6 +10,9 @@
     let xScale = $derived(d3.scaleLinear().domain([0, 100]).range([-width, width]));
     let yScale = $derived(d3.scaleLinear().domain([0, 100]).range([height/2, -height/2]));
 
+    let xHoverScale = $derived(d3.scaleLinear().domain([0, 100]).range([0, radius*1.10]));
+    let yHoverScale = $derived(d3.scaleLinear().domain([0, 100]).range([0, radius*1.10]));
+
     // set the color scale
     let color = null;
     if(theme == 'dark')
@@ -41,15 +44,9 @@
         .arc()
         .innerRadius(radius * 0.55) // This is the size of the donut hole
         .outerRadius(radius * 0.85));
-
-    // Another arc that won't be drawn. Just for labels positioning
-    const outerArc = d3
-        .arc()
-        .innerRadius(radius * 0.9)
-        .outerRadius(radius * 0.9);
     
     let hoverData = $state({ "key": undefined, "value": undefined });
-    $effect(()=>console.log("hoverData =", hoverData))
+    $effect(()=>console.log("Scale =", xScale(42)))
 </script>
 
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap" rel="stylesheet">
@@ -76,7 +73,7 @@
         {/each}
     </g>
     {#if hoverData["key"]}
-        <foreignObject x={xScale(42)} y={yScale(65)} width="15vw" height="15vh" style="pointer-events: none; font-family: 'Orbitron', sans-serif;">
+        <foreignObject x={xHoverScale(-49.5)} y={yHoverScale(-32)} width= {xHoverScale(100)} height= {yHoverScale(100)} style="font-family: 'Orbitron', sans-serif;">
             <strong class="up">{hoverData["value"]}</strong>
             <div class="down">{hoverData["key"]}</div>
         </foreignObject>
@@ -104,10 +101,7 @@
         text-align: center;
         background: rgba(182, 159, 173, 0.7); 
         box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
-        width: 12.5vh;
-        height: 12.5vh;
         border-radius: 100%;
-        display: flex; 
         padding-top: 4vh;
     }
 
