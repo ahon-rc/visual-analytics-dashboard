@@ -17,6 +17,7 @@
     let linePath;
     let xScale = d3.scaleLinear().domain([0, 4]).range([0, width - lineChartMargin.left - lineChartMargin.right]);
     let yScale = d3.scaleLinear().domain([0, 100]).range([lineChartHeight, 0]);
+    let tempScale = d3.scaleLinear().domain([0, 100]).range([lineChartHeight-lineChartMargin.bottom, 0]);
     const years = ["", "2014", "2016", "2019"];
 
     const order = [{ "Family History": 0, "No Family History": 1 }, { "Male": 0, "Female": 1, "LGBTQ+": 2 }, { "Yes": 0, "No": 1, "Maybe": 2 }];
@@ -55,6 +56,7 @@
         
         xScale = d3.scaleLinear().domain([0, 4]).range([0, width - lineChartMargin.left - lineChartMargin.right]);
         let yScale = d3.scaleLinear().domain([0, 100]).range([lineChartHeight-lineChartMargin.bottom, 0]);
+        let tempScale = d3.scaleLinear().domain([0, 100]).range([lineChartHeight-lineChartMargin.bottom-7, 0]);
         YPos = height / 3.5 + height/10000; 
 
 
@@ -121,7 +123,6 @@
         let measure = Math.min(height, width);
         lineChartHeight = height/3.5;
         lineChartMargin = { top: height/156.6, right: width/8.32, bottom: height/39.15, left: width/9.93 };
-        console.log("Equation:",width/60);
         lineChartSvg = d3.select(container)
             .append("svg")
             .attr("width", width)
@@ -132,13 +133,35 @@
         
         let xAxis = lineChartSvg.append("g")
             .attr("class", "x-axis")
-            .attr("transform", `translate(0, ${yScale(0)})`)
+            .attr("transform", `translate(0, ${yScale(3)})`)
             .call(d3.axisBottom(xScale).ticks(years.length).tickFormat((d, i) => years[i]));
+        
+        let xAxisLabel = lineChartSvg.append("text")
+            .attr("text-anchor", "middle")
+            .attr("x", xScale(2))
+            .attr("y", yScale(-8))
+            .text("Year of Survey")
+            .attr("alignment-baseline", "middle")
+            .style("font-size", "0.7vw")  // Adjust as needed
+            .style("fill", "black")
+            .style("font-weight", "bold");
+
+        let yAxisLabel = lineChartSvg.append("text")
+            .attr("text-anchor", "middle")
+            .attr("transform", "rotate(-90)")
+            .attr("x", xScale(-0.85))
+            .attr("y", yScale(114))
+            .attr("alignment-baseline", "middle")
+            .style("font-family", "monospace")
+            .style("font-size", "0.75vw")  // Adjust as needed
+            .style("fill", "black")
+            .text("% Willing to Discuss MH")
+            .style("font-weight", "bold");
 
         
         let yAxis = lineChartSvg.append("g")
             .attr("class", "y-axis")
-            .call(d3.axisLeft(yScale).ticks(5));
+            .call(d3.axisLeft(tempScale).ticks(5));
             
         linePath = lineChartSvg.append("path")
             .attr("class", "line")
@@ -172,6 +195,7 @@
             }
             x = isLeaf ? x['value'] : x['count'];
             //console.log("Path:", path, "\nx:",x, "\nTotal:", total, dictionary);
+            total = (total<=0) ? 1: total; 
             return (x/total).toFixed(4)*100;
         };
         let data = [getValue(dic14), getValue(dic16), getValue(dic19)];
@@ -275,4 +299,3 @@
 </script>
 
 <div bind:this={container} style="width: 100%; height: 85vh;"></div>
-

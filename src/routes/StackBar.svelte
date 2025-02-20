@@ -28,6 +28,11 @@
 	var y_axis = binGenerator(Object.values(values));
 
     var font_size = $derived(100/(total-2));
+    const legendData = [
+        { color: "#94d13d", label: "In-Office" },
+        { color: "#ff564d", label: "Remote" },
+        { color: "#6f58e9", label: "Hybrid" }
+    ];
 
 
 </script>
@@ -74,14 +79,22 @@
 
     <g data-z-index="1" opacity="1" aria-hidden="false" style="outline: none;" class="ticks-labels">
         {#each Object.keys(dic) as label, idx}
-            <text font-family='Roboto-Regular,Roboto' x={barScaleX(idx)+35} y={barScaleY(-30)} text-anchor="middle" style="color: rgb(51, 51, 51); font-size: 0.50vw; 
-                fill: rgb(51, 51, 51);" aria-hidden="true" alignment-baseline="middle">
+            <text font-family='Roboto-Regular,Roboto' x={barScaleX(idx)-idx*2-110} y={barScaleY(-30)+idx*20} text-anchor="middle" style="color: rgb(51, 51, 51); font-size: 0.50vw; 
+                fill: rgb(51, 51, 51); transform: rotate(-30deg);" aria-hidden="true" alignment-baseline="middle">
                 {label}
             </text>
         {/each}
         {#each y_axis as val}
             <text x={barScaleX(-0.4)} y={barScaleY(val['x1'])+4} font-family='Roboto-Regular,Roboto'
             text-anchor="middle" style="color: rgb(102, 102, 102); font-size: 0.6vw;" aria-hidden="true">{val['x1']}</text>
+        {/each}
+    </g>
+
+    <g class="legend">
+        <rect class="legend-bg" x={width - 100} y={43} width={width / 3.5} height={height/4} rx="8"/>
+        {#each legendData as item, i}
+            <rect x={width - 90} y={i * 18 + 50} width={Math.min(width,height)/24} height={Math.min(width,height)/24} fill={item.color} />
+            <text x={width - 73} y={i * 18 + 59} font-size={Math.min(width,height)/22} fill="black">{item.label}</text>
         {/each}
     </g>
 </svg>
@@ -94,5 +107,12 @@
     svg {
         border: 1px solid black;
         border-radius: 6px;
+    }
+
+    .legend {
+        fill: rgba(255, 255, 255, 0.7);
+        stroke: rgba(0, 0, 0, 0.2);
+        stroke-width: 1;
+        filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3));
     }
 </style>

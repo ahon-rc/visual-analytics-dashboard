@@ -1,0 +1,80 @@
+{
+    "2014": [
+        {
+            "Yes": 477,
+            "No": 375,
+            "Didn't know": 408,
+            "Not Eligible": 0
+        },
+        {
+            "Yes": 250,
+            "No": 647,
+            "Didn't know": 363
+        },
+        {
+            "Yes": 375,
+            "No": 65,
+            "Didn't know": 820
+        },
+        {
+            "Somewhat easy": 266,
+            "Very easy": 206,
+            "I don't know": 0,
+            "Somewhat difficult": 126,
+            "Neither easy nor difficult": 0,
+            "Very Difficult": 0
+        }
+    ],
+    "2016": [
+        {
+            "Yes": 531,
+            "No": 213,
+            "Didn't know": 319,
+            "Not Eligible": 83
+        },
+        {
+            "Yes": 295,
+            "No": 531,
+            "Didn't know": 320
+        },
+        {
+            "Yes": 320,
+            "No": 84,
+            "Didn't know": 742
+        },
+        {
+            "Somewhat easy": 281,
+            "Very easy": 220,
+            "I don't know": 0,
+            "Somewhat difficult": 199,
+            "Neither easy nor difficult": 178,
+            "Very Difficult": 0
+        }
+    ],
+    "2019": [
+        {
+            "Yes": 164,
+            "No": 35,
+            "Didn't know": 87,
+            "Not Eligible": 18
+        },
+        {
+            "Yes": 102,
+            "No": 130,
+            "Didn't know": 72
+        },
+        {
+            "Yes": 101,
+            "No": 15,
+            "Didn't know": 188
+        },
+        {
+            "Somewhat easy": 83,
+            "Very easy": 70,
+            "Didn't Know": 0,
+            "Somewhat difficult": 49,
+            "Neither easy nor difficult": 31,
+            "Very Difficult": 0
+        }
+    ]
+}

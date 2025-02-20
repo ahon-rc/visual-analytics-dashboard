@@ -1,0 +1,208 @@
+{
+    "data": [
+        {
+            "name": "Alabama",
+            "Participants": 13
+        },
+        {
+            "name": "Alaska",
+            "Participants": 3
+        },
+        {
+            "name": "Arizona",
+            "Participants": 15
+        },
+        {
+            "name": "Arkansas",
+            "Participants": 0
+        },
+        {
+            "name": "California",
+            "Participants": 299
+        },
+        {
+            "name": "Colorado",
+            "Participants": 53
+        },
+        {
+            "name": "Connecticut",
+            "Participants": 10
+        },
+        {
+            "name": "Delaware",
+            "Participants": 1
+        },
+        {
+            "name": "District of Columbia",
+            "Participants": 13
+        },
+        {
+            "name": "Florida",
+            "Participants": 37
+        },
+        {
+            "name": "Georgia",
+            "Participants": 32
+        },
+        {
+            "name": "Hawaii",
+            "Participants": 1
+        },
+        {
+            "name": "Idaho",
+            "Participants": 4
+        },
+        {
+            "name": "Illinois",
+            "Participants": 99
+        },
+        {
+            "name": "Indiana",
+            "Participants": 55
+        },
+        {
+            "name": "Iowa",
+            "Participants": 10
+        },
+        {
+            "name": "Kansas",
+            "Participants": 21
+        },
+        {
+            "name": "Kentucky",
+            "Participants": 9
+        },
+        {
+            "name": "Louisiana",
+            "Participants": 5
+        },
+        {
+            "name": "Maine",
+            "Participants": 7
+        },
+        {
+            "name": "Maryland",
+            "Participants": 26
+        },
+        {
+            "name": "Massachusetts",
+            "Participants": 49
+        },
+        {
+            "name": "Michigan",
+            "Participants": 76
+        },
+        {
+            "name": "Minnesota",
+            "Participants": 69
+        },
+        {
+            "name": "Mississippi",
+            "Participants": 1
+        },
+        {
+            "name": "Missouri",
+            "Participants": 24
+        },
+        {
+            "name": "Montana",
+            "Participants": 1
+        },
+        {
+            "name": "Nebraska",
+            "Participants": 32
+        },
+        {
+            "name": "Nevada",
+            "Participants": 6
+        },
+        {
+            "name": "New Hampshire",
+            "Participants": 6
+        },
+        {
+            "name": "New Jersey",
+            "Participants": 15
+        },
+        {
+            "name": "New Mexico",
+            "Participants": 6
+        },
+        {
+            "name": "New York",
+            "Participants": 121
+        },
+        {
+            "name": "North Carolina",
+            "Participants": 42
+        },
+        {
+            "name": "North Dakota",
+            "Participants": 4
+        },
+        {
+            "name": "Ohio",
+            "Participants": 62
+        },
+        {
+            "name": "Oklahoma",
+            "Participants": 21
+        },
+        {
+            "name": "Oregon",
+            "Participants": 69
+        },
+        {
+            "name": "Pennsylvania",
+            "Participants": 64
+        },
+        {
+            "name": "Rhode Island",
+            "Participants": 3
+        },
+        {
+            "name": "South Carolina",
+            "Participants": 7
+        },
+        {
+            "name": "South Dakota",
+            "Participants": 7
+        },
+        {
+            "name": "Tennessee",
+            "Participants": 86
+        },
+        {
+            "name": "Texas",
+            "Participants": 92
+        },
+        {
+            "name": "Utah",
+            "Participants": 20
+        },
+        {
+            "name": "Vermont",
+            "Participants": 9
+        },
+        {
+            "name": "Virginia",
+            "Participants": 35
+        },
+        {
+            "name": "Washington",
+            "Participants": 126
+        },
+        {
+            "name": "West Virginia",
+            "Participants": 2
+        },
+        {
+            "name": "Wisconsin",
+            "Participants": 28
+        },
+        {
+            "name": "Wyoming",
+            "Participants": 3
+        }
+    ]
+}
